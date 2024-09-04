@@ -1,0 +1,16 @@
+ 
+body  
+
+{background-color: rgb(14, 12, 15);}
+
+div {
+    color: hsl(0, 0%, 3%);
+  }
+
+
+
+  body {
+    background-image: url('./img.png'); /* replace 'image.jpg' with your image file */
+    background-size: cover; /* scale the image to cover the entire background */
+    background-repeat: no-repeat; /* prevent the image from repeating */
+  }
